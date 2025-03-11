@@ -1,1 +1,1 @@
-"# BizGenieAI" 
+"# BizGenie AI" 
